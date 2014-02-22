@@ -1,4 +1,4 @@
-# CiroTheme
+# CISPER
 
 A slightly changed version of the default theme (casper) for [Ghost](http://github.com/tryghost/ghost/).
 
